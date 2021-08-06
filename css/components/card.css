@@ -1,0 +1,34 @@
+.card {
+    background-color: #F7F7F7;
+    padding: 30px;
+    border-radius: 25px;
+    width: 40%;
+    
+}
+
+.card:hover {
+    background-color: #2160FF;
+    color: white;
+}
+
+.card:hover .btn {
+    background-color: white;
+    color: black;
+}
+
+.card ul {
+    list-style-type: '✓';
+    margin-bottom: 25px;
+}
+
+.card ul li {
+    text-align: left;
+}
+
+.card h3 {
+    margin-top: 0;
+}
+
+.card h2 {
+    margin-bottom: 40px;
+}
